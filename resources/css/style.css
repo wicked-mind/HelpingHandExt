@@ -3,3 +3,10 @@
 	font-size: 40px;
 	background:transparent;
 }
+
+.formStyle {
+	font-style: Verdana;
+	font-size: 40px;
+	background:transparent;
+	vertical-align: middle
+}
